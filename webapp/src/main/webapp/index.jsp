@@ -6,14 +6,13 @@
      
     <label for="Name"><b>Full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
-
     <br>
     
-    <label for="mobile"><b>mobile</b></label>
+    <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter Mobile Number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Your Email" name="email" id="email" required>
     <br>
 
